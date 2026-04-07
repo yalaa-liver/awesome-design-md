@@ -1,0 +1,25 @@
+{
+  "name": "awesome-design-md",
+  "id": "awesome-design-md",
+  "owner": {
+    "name": "YOUR_USERNAME"
+  },
+  "metadata": {
+    "description": "Curated design system references in markdown for Claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "awesome-design-md",
+      "source": "./",
+      "description": "Provides Claude with curated design system documentation (Apple HIG, Material, shadcn, etc.) as markdown references when building UI",
+      "version": "1.0.0",
+      "author": {
+        "name": "YOUR_USERNAME"
+      },
+      "keywords": ["design", "ui", "design-system", "frontend", "markdown"],
+      "category": "frontend",
+      "strict": false
+    }
+  ]
+}

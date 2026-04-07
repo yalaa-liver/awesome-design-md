@@ -1,0 +1,11 @@
+{
+  "name": "awesome-design-md",
+  "description": "Curated design system documentation in markdown — use as reference when building UIs, components, or design work",
+  "version": "1.0.0",
+  "author": {
+    "name": "YOUR_USERNAME"
+  },
+  "license": "MIT",
+  "keywords": ["design", "ui", "design-system", "frontend"],
+  "skills": ["./skills/awesome-design-md"]
+}
